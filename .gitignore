@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object files
 *.o
 *.ko
@@ -31,3 +32,6 @@
 # Debug files
 *.dSYM/
 *.su
+=======
+/Debug/
+>>>>>>> refs/heads/master
